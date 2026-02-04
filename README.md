@@ -1,6 +1,6 @@
 # GameFileManagerBox
 
-<font color=red>项目搁置中</font>
+**项目搁置中**
 
 集中管理游戏文件：将游戏运行产生的文件（如存档、模组）隔离在沙盒中集中。
 
